@@ -1,0 +1,3 @@
+For this analysis, we focused on the engagement of the 137 Belgian federal parliament politicians by examining their tweets and interaction patterns. We used Cypher queries to extract key insights, such as identifying which politicians receive the most replies and mentions. To handle the large dataset, we limited each query’s result to a maximum of 100 rows.
+
+We visualized our findings using Gephi, which helped us explore the relationships between parties, their members, and their interactions. Our analysis includes examining cross-party interactions including mentions and replies to understand political engagement on social media. Emphasizing the federal parliament politicians, we aim to uncover meaningful insights into their digital behavior and interactions.
